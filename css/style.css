@@ -35,8 +35,9 @@ h2{
 	text-align: center;
 }
 #myNavbar ul li a {
-	color: #61122F;
-}
+	font-size: 20px;
+	color: white;
+	text-align: center;
 .navbar-brand{
 font-size: 30px;	
 }
